@@ -1,0 +1,32 @@
+{
+  "apkLink":"",
+  "audit":1,
+  "author":" 无异",
+  "chapterId":497,
+  "chapterName":"instant run",
+  "collect":false,
+  "courseId":13,
+  "desc":"",
+  "envelopePic":"",
+  "fresh":true,
+  "id":9345,
+  "link":"https://juejin.im/post/5d8ad352f265da5b6b62f01c",
+  "niceDate":"12小时前",
+  "niceShareDate":"12小时前",
+  "origin":"",
+  "prefix":"",
+  "projectLink":"",
+  "publishTime":1569423976000,
+  "shareDate":1569423976000,
+  "shareUser":"",
+  "superChapterId":461,
+  "superChapterName":"常见开源库源码解析",
+  "tags":[
+
+  ],
+  "title":"更深入理解instant-run——源码篇",
+  "type":0,
+  "userId":-1,
+  "visible":1,
+  "zan":0
+}

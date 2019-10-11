@@ -1,0 +1,10 @@
+{
+  "children": "$[]Txouterchild",
+  "courseId": 13,
+  "id": 150,
+  "name": "开发环境",
+  "order": 1,
+  "parentChapterId": 0,
+  "userControlSetTop": false,
+  "visible": 1
+}
