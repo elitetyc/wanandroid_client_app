@@ -31,6 +31,11 @@ class _LoginPageState extends State<LoginPage> {
     _pwdController = TextEditingController()..addListener((){
       pwd = _pwdController.text.trim();
     });
+    _usernameController.text = "elitetyc";
+    _pwdController.text = "123456";
+    username = "elitetyc";
+    pwd = "123456";
+    canClick = true;
   }
 
   @override
