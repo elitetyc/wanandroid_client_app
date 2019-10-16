@@ -5,7 +5,6 @@ import 'package:wanandroid_client_app/common/static_info.dart';
 import 'package:wanandroid_client_app/common/store.dart';
 import 'package:cookie_jar/cookie_jar.dart';
 import 'package:dio_cookie_manager/dio_cookie_manager.dart';
-import 'dart:convert';
 
 const String login = "user/login";
 const String register = "user/register";

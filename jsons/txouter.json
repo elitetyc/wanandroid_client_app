@@ -1,5 +1,5 @@
 {
-  "children": "$[]Txouterchild",
+  "children": "$[]txouterchild",
   "courseId": 13,
   "id": 150,
   "name": "开发环境",

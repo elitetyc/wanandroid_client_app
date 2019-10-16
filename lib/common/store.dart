@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:path_provider/path_provider.dart';
-import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:wanandroid_client_app/models/index.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -49,17 +48,6 @@ class Store{
         break;
       }
     }
-//    return MultiProvider(
-//        providers: [
-//          ChangeNotifierProvider(
-//            builder: (_)=>UserInfoNotifier(),
-//          ),
-//          ChangeNotifierProvider(
-//            builder: (_)=>ThemeNotifier(),
-//          )
-//        ],
-//        child: child,
-//    );
   }
 
   //保存数据到本地
